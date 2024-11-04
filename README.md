@@ -94,16 +94,6 @@ Desenvolver uma interface simples em **React** com as seguintes telas:
   - **React**
   - **Biblioteca para Carrossel**: Você pode utilizar bibliotecas como `react-slick` ou outra para implementar o carrossel.
 
-## 🛠️ Instruções
-
-1. Faça o **fork** deste repositório.
-2. Crie uma nova branch com o nome do seu desafio: `git checkout -b desafio-seu-nome`.
-3. Implemente sua solução backend e frontend conforme os requisitos descritos.
-4. Faça o **commit** das suas alterações: `git commit -m 'Desafio finalizado'`.
-5. Faça o **push** para a branch criada: `git push origin desafio-seu-nome`.
-6. Crie um **Pull Request** para o repositório principal.
-7. Envie um email para "contato@devvo.com.br" falando que finalizou seu desafio e encaminhando o link do Pull Request
-
 ## 📝 Regras e Critérios de Avaliação
 
 1. **Organização do código**: Estrutura clara e modularidade do código.
